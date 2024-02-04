@@ -1,9 +1,5 @@
-# 💫 About Me:
+# ⭐️ About Me:
 I’m currently learning more tools that are required for data-focused roles.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-sikouky/) 
 
 # 💻 Tech Stack:
 ## Most Utilised Technologies:
@@ -25,8 +21,12 @@ I’m currently learning more tools that are required for data-focused roles.
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-sikouky/) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AYSIK0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AYSIK0&icon=5&color=1)](https://visitcount.itsvg.in)
