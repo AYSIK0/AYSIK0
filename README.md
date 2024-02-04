@@ -3,7 +3,7 @@ I’m currently learning more tools that are required for data-focused roles.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayoub-sikouky/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-sikouky/) 
 
 # 💻 Tech Stack:
 ## Most Utilised Technologies:
